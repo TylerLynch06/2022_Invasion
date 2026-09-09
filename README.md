@@ -11,3 +11,5 @@ Had i continued to make more games in pygame rather than switching to unity, i i
 This one also has a rather barbaric tile-system, it is stored directly as a csv. it doesnt use run length encoding, each tile has its own number and thats it.
 
 At the time i thought this was very advanced, now i see it as messy and archaic, but it does make me a little nostalgic, as this one is undoubtedly the culmination of all my previous pygame works.
+It makes me happy to see how i much improved to see how much i improved over a short 6 month time span, especially seeing as pygame was my first time dealing with my own personal projects, rather
+than school assignments
