@@ -1,7 +1,8 @@
 Install required modules and execute 'Invasion.py'
 
 ##---DEV NOTE---
-My personal favourite creation from my old pygame library (2021-2022), this one was made when i was 15, and was the last one i made in pygame.
+
+My personal favourite creation from my old pygame library (2021-2022), this one was made when i was 15, and was the last game i made in pygame.
 
 This one has a lot of moving parts, namely the 'Diesel' engine (though its just a class) and the 'All Purpose Python Engine' (again, just a class). These 2 classes held the solution to problems i'd
 faced in previous projects, from animation handling in pygame, 'raycasting', UI elements, messages with dynamic typing, particle systems, advanced player controls, to advanced angle calculations.
